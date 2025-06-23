@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Tomris! 👋
 
-<!--
-**TomrisB/TomrisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student with a passion for Cyber Security and Cloud technologies.  
+Currently learning: Python, JavaScript, and exploring Frontend development.  
+My goal is to build clean, simple projects and grow my skills every day.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I work with:
+- Python 
+- JavaScript 
+- Git & GitHub
+- Basic Linux
+- Cyber Security Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**Let's connect!**  
+[LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/fatma-bolat-9049a6250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
